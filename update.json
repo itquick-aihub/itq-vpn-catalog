@@ -1,11 +1,11 @@
 {
- "version": "0.1.1",
- "notes": "\u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0432\u043d\u0443\u0442\u0440\u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f; \u0441\u043f\u043e\u0441\u043e\u0431 \u0438 IP \u0432 \u043e\u043a\u043d\u0435",
- "pub_date": "2026-10-30T21:43:27Z",
+ "version": "0.1.2",
+ "notes": "\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f",
+ "pub_date": "2026-10-30T21:46:23Z",
  "platforms": {
   "darwin-aarch64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnRXd1hsaXdzamQ4VlVsbUJBYlpWNGhkdDlLM2xKZkdWUUpXNHlwR3BJcHdyWlp3QlN5RUZlMkdlSGMzT0VrdFlTOGFTcWhiU29CYllxaVBHcm14K0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk2NTMyCWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5nego0YlJObVR5YmJQZ2JSRVE3V3V3R2lkNGluaWxZdTl1NlQ0M2ZkL0ViTktaV0twNDBEY1pzaWliRkxFNnpJTEFkMThvZk9ZOEZ5V041dzJBUzhBV1REQT09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.1/ITQuick-VPN-0.1.1-aarch64.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnM5WWQxeGRhbW1FZENyamlRRlRIQ0RCbTZBQ3dxb3grMzRDd3RBM3huY0Z4VkgrQXhrcUxPSFlLS3g1dFMxbmN2WlNxYmF1Q0JTcjQ4RnVnVXZWOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzk2NzMwCWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpQdmFDREtsQ1ZrU2RWVWFBb3hQbDFMUXkvU1c1WlIxbFVaQWFHQU84VVpTV3JxcVZ3dVZHWHVnT3BqdTBxb2ZHSXlsaW1weW4zTGhoUDdxQ3FNTUNDZz09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.2/ITQuick-VPN-0.1.2-aarch64.app.tar.gz"
   }
  }
 }
