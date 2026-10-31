@@ -1,23 +1,23 @@
 {
- "version": "0.1.8",
- "notes": "Linux-\u0432\u0435\u0440\u0441\u0438\u044f; \u043e\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u043f\u0430\u043a\u0435\u0442\u043e\u0432",
- "pub_date": "2026-10-31T01:44:43Z",
+ "version": "0.1.9",
+ "notes": "\u041e\u0431\u0440\u044b\u0432 \u0437\u0430\u043c\u0435\u0447\u0430\u0435\u0442\u0441\u044f \u0437\u0430 ~30 \u0441\u0435\u043a\u0443\u043d\u0434 \u0438 VPN \u0441\u0430\u043c \u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0440\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u043f\u043e\u0441\u043e\u0431; \u043f\u0440\u0438 \u0441\u043c\u0435\u043d\u0435 \u0441\u0435\u0442\u0438 \u043f\u0435\u0440\u0435\u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0430\u0435\u0442\u0441\u044f \u0441\u0440\u0430\u0437\u0443",
+ "pub_date": "2026-10-31T12:01:50Z",
  "platforms": {
   "darwin-aarch64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm5GVVNrUmJhejBFUG1BM0xoa0xWRXNWVE44TzJPVDVzNTYvcmtqbWNvZ3BLMjMyRTBXNnhaQmdTbE91emJZeUtqVWo0SGlaazA2Ym9iL3BCSEppRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDEwNTc3CWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpXcDIweVV6Mk90YThFclYvMGdDd3UvZ1dOcXRmWFpSS0hPNmEzdGNjLzB3bXEvSEh3REhYanBpcmlOU1ZsdWg5dFpsM0RhYk9ON1o5OWRXZ0VVRmFCdz09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.8/ITQuick-VPN-0.1.8-mac.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmdtUzEzeEpyZXJVcFFjVVp0eHR5T1JrVUFhSmlmZ0dWanJQZ0RQYjNRVzRXR2hzMU55b040WUdIR2ZyajhtOWN5Vm1YQzRuZnBtRE9DMEtxU3hyL2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ3MzUwCWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpERUpvRWgyNUNtK2ZaMjJpQmkyQ2s0bThSTHZqQ3VGU0o3cHFSajlzNURiU3dhOHF1cTFuS0FVbUsyT1l5RWZSb0treThMNnM1TGxTUTFWSjNNYUhCUT09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.9/ITQuick-VPN-0.1.9-mac.app.tar.gz"
   },
   "darwin-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm5GVVNrUmJhejBFUG1BM0xoa0xWRXNWVE44TzJPVDVzNTYvcmtqbWNvZ3BLMjMyRTBXNnhaQmdTbE91emJZeUtqVWo0SGlaazA2Ym9iL3BCSEppRndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDEwNTc3CWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpXcDIweVV6Mk90YThFclYvMGdDd3UvZ1dOcXRmWFpSS0hPNmEzdGNjLzB3bXEvSEh3REhYanBpcmlOU1ZsdWg5dFpsM0RhYk9ON1o5OWRXZ0VVRmFCdz09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.8/ITQuick-VPN-0.1.8-mac.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmdtUzEzeEpyZXJVcFFjVVp0eHR5T1JrVUFhSmlmZ0dWanJQZ0RQYjNRVzRXR2hzMU55b040WUdIR2ZyajhtOWN5Vm1YQzRuZnBtRE9DMEtxU3hyL2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ3MzUwCWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpERUpvRWgyNUNtK2ZaMjJpQmkyQ2s0bThSTHZqQ3VGU0o3cHFSajlzNURiU3dhOHF1cTFuS0FVbUsyT1l5RWZSb0treThMNnM1TGxTUTFWSjNNYUhCUT09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.9/ITQuick-VPN-0.1.9-mac.app.tar.gz"
   },
   "linux-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnRSTDBVTFd6YUFYelVpZmF4YkFzSE51R2pzSTdqS3FYaTRZeXd4UjY1TVBNWVFNU0dVQ2MxR3dJMTBTdWRsZ0g3U0Jsc2xnNk5IMXl1TVhheGQ2a0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDEwOTUxCWZpbGU6SVRRdWljayBWUE5fMC4xLjhfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuOApibXY4WitBZlR4Q3AzV29pak8vYmJPMm1zT3Y4dTY4b3ZmeFU1WDQ4eUxoZkFERGdsYks0V1Z0azc4RE5pQTZqOEd0bDQwVHluWUgyL2xhOG8rRFNDQT09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.8/ITQuick-VPN-0.1.8-x86_64.AppImage"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnFzdUdzVUQ0UWgzZVk4alEwTUwyMHBQdnMrNkxtWVJkenVmLy9Rd0lVdkZxaUNRR3lTUXJIT1BmTFo3dUJCOWRHS0FwS1BmM2xaTVF2VUdJR1o3cVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ3ODE5CWZpbGU6SVRRdWljayBWUE5fMC4xLjlfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuOQpGS0M4cjhDV2Z1WkMrTzhZWGZIREptMU5adlJxVnRiTW5iMnRob0NlSHZZeVZjYnFRbXR5RjdSeWozc2xIdEZGV3Zwb2RWdC9iQ3lyWFYxSnliTktEUT09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.9/ITQuick-VPN-0.1.9-x86_64.AppImage"
   },
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnRGZDkyUWxFbVcxU1NIMHF6cC93ZVJwZjdFQ3JQOWF0NFNFN1VTSzVWWkF5ek1wVlBSWDl0UlBqNzIyV3NWSHVPdW5OZnFIOEIycGN2Zy9LSVA2TFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDEwNzUwCWZpbGU6SVRRdWljayBWUE5fMC4xLjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS44Ck02aUxITGx4NFRjVXZYZDNHaENYckJMTXpDdXFKM25KNWdhR0JVUVBNVmJUOHNtTHBMSS80d0hnMlEyQXJqZHA4eEw5alRtMXNMYStNWmVaU0xPa0NBPT0K",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.8/ITQuick-VPN-0.1.8-x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnArWDZSWDl6aldIQlVEWVNENWZkUExiSlI2dXl2bmcrQit1RE4rUTA4THhmdElpcGdJVVlXWVRIZEs3dVdnbnBXa1ZzelRwTkVpQVRVT05pbHhHWUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ3NjAwCWZpbGU6SVRRdWljayBWUE5fMC4xLjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS45CmZmaDFiOTUrWWRnRXFGNVpnYlN4VHU1aUVLWjJNYy96Z3I4U1lyeXlMSUsycXRFbk0yc2ZiNm9Mb0phcW9oazFlOTZ4WkhuZU9KRWpGS3NYcGZkUkRnPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.9/ITQuick-VPN-0.1.9-x64-setup.exe"
   }
  }
 }
