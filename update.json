@@ -14,6 +14,10 @@
   "windows-x86_64": {
    "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmdWZ1FhM2tSaGlvQWJrUXNFbmVJV3kyY1ViRUg5VTU4RzJSMEY1ZUhZRXAvR0ZTOHdLclZkaFZtWmdpSHVEd2VEN2FKeGRsMThSeXh0UldOakdXR0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQzODU3CWZpbGU6SVRRdWljayBWUE5fMC4xLjEwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTAKOTJQbjFoUDlmT2p2NTQvT0Mwam93V205eE1XeG9WazgzaVRiaVVRQldELzdBOElrM3pvd3NLTW11OUdPOWhHTnFBYStPNkNjbTVodW5Gc3I1aDhpRHc9PQo=",
    "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.10/ITQuick-VPN-0.1.10-x64-setup.exe"
+  },
+  "linux-x86_64": {
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm5yRUJXWklweERRS1FEelY0L3V6N0ZWUkxPOU41SzJjWkd6QkdkTWt5dldLL2p1WU10NUdENFI2N2djVXNGT2FiOElOV09qcWtybmhNMzRDeHdxNWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTQ0Njg0CWZpbGU6SVRRdWljayBWUE5fMC4xLjEwX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjEwCkhTcGtITGMxa2dZYXpwZm9IcFlVaWpaeU81KzRlUDRDM0pQck9hdjZ6VytKMUZLa0RQamZDcjA1VTdNSGNZK1pQK2xPbnhZZEpxbm5lRkQ2MTBxSUNnPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.10/ITQuick-VPN-0.1.10-x86_64.AppImage"
   }
  }
 }
