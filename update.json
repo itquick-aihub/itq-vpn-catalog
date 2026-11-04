@@ -1,23 +1,23 @@
 {
- "version": "0.1.15",
- "notes": "\u0420\u0430\u0431\u043e\u0442\u0430\u0435\u0442 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u043a\u043e\u0440\u043f\u043e\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u043c\u0438 VPN (GlobalProtect \u0438 \u0434\u0440\u0443\u0433\u0438\u043c\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0435\u0434\u0443\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u0441\u0432\u043e\u0438 \u0441\u0435\u0442\u0438): \u043d\u0430 Windows \u043e\u0431\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0442\u0435\u043f\u0435\u0440\u044c \u043d\u0435 \u043c\u0435\u0448\u0430\u044e\u0442 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0443.",
- "pub_date": "2026-11-02T20:10:59Z",
+ "version": "0.1.16",
+ "notes": "\u041d\u043e\u0432\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u2014 Ratexa VPN: \u043d\u043e\u0432\u044b\u0439 \u0437\u043d\u0430\u0447\u043e\u043a \u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435. \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u0432\u0438\u0442\u0441\u044f \u043a\u0430\u043a \u043e\u0431\u044b\u0447\u043d\u043e, \u0432\u0445\u043e\u0434\u0438\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e \u043d\u0435 \u043d\u0443\u0436\u043d\u043e.",
+ "pub_date": "2026-11-04T20:01:01Z",
  "platforms": {
   "darwin-aarch64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nmp0UXhMc1NQcnJLK2dpUGwweXFLd0ZVeFNPQWFtS1hYWXlZZmFLaXNRdHRPWUZyWVdTTkgrNUQzdmxCSDdrRXpjV3ZRRWVZZHBBZ25jcU9sOC9rQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ5NzY2CWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpjZ1c2VXZ2L2t0SkFUalUwOTNlckczSXFnK0IvblNyK2JGeU9rOHFFQklvcU16alY1Y21Jbm16ZThsUkhJQWFlV0pzWHQydmkyL2R0WU5Ydno2S0ZBZz09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.15/ITQuick-VPN-0.1.15-mac.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm9jWmRiTFgvN2cvd0hDWjU0eEJsWHJwWHY2cUloR3BYSmh4ZGRiNDM0VGRjTkxGQmlJcnV6b3J6VjVmaXc3YnpWSCtURzlOMUJIbmF1eERxNzRaUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxODgxCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6ClJNeWxzVUZ4dmUxVjVwNmVvVjExeEF1MWhNNlBKZ3Zka1gxYW9IcXp1YklhOHlTTzZmWTZzWWtSUUtNWDJYTkZxN2tYQndyQ2dwVENvcFlnNHIxU0NRPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-mac.app.tar.gz"
   },
   "darwin-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nmp0UXhMc1NQcnJLK2dpUGwweXFLd0ZVeFNPQWFtS1hYWXlZZmFLaXNRdHRPWUZyWVdTTkgrNUQzdmxCSDdrRXpjV3ZRRWVZZHBBZ25jcU9sOC9rQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ5NzY2CWZpbGU6SVRRdWljayBWUE4uYXBwLnRhci5negpjZ1c2VXZ2L2t0SkFUalUwOTNlckczSXFnK0IvblNyK2JGeU9rOHFFQklvcU16alY1Y21Jbm16ZThsUkhJQWFlV0pzWHQydmkyL2R0WU5Ydno2S0ZBZz09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.15/ITQuick-VPN-0.1.15-mac.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm9jWmRiTFgvN2cvd0hDWjU0eEJsWHJwWHY2cUloR3BYSmh4ZGRiNDM0VGRjTkxGQmlJcnV6b3J6VjVmaXc3YnpWSCtURzlOMUJIbmF1eERxNzRaUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxODgxCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6ClJNeWxzVUZ4dmUxVjVwNmVvVjExeEF1MWhNNlBKZ3Zka1gxYW9IcXp1YklhOHlTTzZmWTZzWWtSUUtNWDJYTkZxN2tYQndyQ2dwVENvcFlnNHIxU0NRPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-mac.app.tar.gz"
   },
   "linux-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmwvT2hxcGtyL1dwNnNzYTlWTzdOai9BSmFBemhzenlEWEpRMjgwVXQ0aVpTOFdBSTNERUo3cTlQQlJ1cWNXUGJBUWI5eW5PbHZuYU9aem82S2h2QVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjUwMjEwCWZpbGU6SVRRdWljayBWUE5fMC4xLjE1X2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC4xLjE1CnoremZwY214VWozajlscHorUHZKd1cyb0M1M0E1UGcxcWJoeG1DQWVyNFRKYy9haW93TmZQUVlmNjlQT2VYZWFXMThRUEFJY2RJL2NlbmdkdlFVMUJBPT0K",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.15/ITQuick-VPN-0.1.15-x86_64.AppImage"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmxJK3dQcUlWSXc0QWV0NUJXdlkrL1VGWUhKYU81OVFRejJ5cTNnZ0VnbjhvMlA2NFdVMDBVL3lBUUlLeDhaTUZNRk1xWUc4L3RYWkt5VytLcEFGYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyNDE0CWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMTYKbmJaMDBCVWZ3Mk40d1JTRkp1M1kyM0UrWXB2QXJIS2xTZGI5SXF2c1ZTNk9Sdnlxc04xSjFBdFQzdVNjemZHRnpCZlhWZVdsZHNzOEtNT0Y4Q1FTQmc9PQo=",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-x86_64.AppImage"
   },
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmxIQ2gwemlVQlA5QlBrZmwxNEhpMis0clBRRjBJWllFd2x1V21MSmpmSFVnd0k5clRQYmlmSGV4ejNPOTVDKzAzcU1rQkF0SXhpODlOWFlhM3FXUlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ5OTkwCWZpbGU6SVRRdWljayBWUE5fMC4xLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMTUKWjI0RDJnN1VsSkZBNE9KcHZYRHVSMWpqemNrbXJTdFpYWWc0bDR2VXB0WTdwQVhhSHIvWFFWMlpucmpJTC9QVGtjRTlNaitvZ1E5SVNDV3U5aWpLQnc9PQo=",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.15/ITQuick-VPN-0.1.15-x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnNKUEs0enl4Ukp1eWtDR1VEUGtzS2tXd3l4SHFIRUMyaENVUWFzV202STVNWEJkY1hYZnpQMk1vYVF6SStWSmxGU0hXcjBiWGg5ZnI4eFlnMVMxbUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyMjAwCWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNgpMUnJSZmxTa01yYTJud095a0R1RFFIY0E0UTk0KzRPUngwbVJCVTZyQytEakJpT05hQTVsYmhReW5jVmhNRmxsdG5QTG9abkxITUhyTS9SU2xxY2hBZz09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-x64-setup.exe"
   }
  }
 }
