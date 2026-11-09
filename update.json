@@ -1,23 +1,23 @@
 {
- "version": "0.1.16",
- "notes": "\u041d\u043e\u0432\u043e\u0435 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u2014 Ratexa VPN: \u043d\u043e\u0432\u044b\u0439 \u0437\u043d\u0430\u0447\u043e\u043a \u0438 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435. \u041e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0430\u0432\u0438\u0442\u0441\u044f \u043a\u0430\u043a \u043e\u0431\u044b\u0447\u043d\u043e, \u0432\u0445\u043e\u0434\u0438\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e \u043d\u0435 \u043d\u0443\u0436\u043d\u043e.",
- "pub_date": "2026-11-04T20:01:01Z",
+ "version": "0.1.17",
+ "notes": "\u0418\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0434\u043b\u044f Windows: \u0442\u0443\u043d\u043d\u0435\u043b\u044c \u0431\u043e\u043b\u044c\u0448\u0435 \u043d\u0435 \u0440\u0432\u0451\u0442\u0441\u044f, \u043f\u043e\u043a\u0430 \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u043d\u0435 \u043f\u0440\u043e\u043b\u043e\u0436\u0438\u043b\u0430 \u043c\u0430\u0440\u0448\u0440\u0443\u0442; \u043f\u0440\u043e\u043f\u0430\u043b\u0438 \u0432\u0441\u043f\u043b\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u043e\u043a\u043d\u0430 curl. \u041d\u043e\u0432\u044b\u0435 \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 \u0436\u0443\u0440\u043d\u0430\u043b\u0435 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c \u0440\u0435\u0434\u043a\u0438\u0435 \u0440\u0430\u0437\u0440\u044b\u0432\u044b.",
+ "pub_date": "2026-11-09T11:44:32Z",
  "platforms": {
   "darwin-aarch64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm9jWmRiTFgvN2cvd0hDWjU0eEJsWHJwWHY2cUloR3BYSmh4ZGRiNDM0VGRjTkxGQmlJcnV6b3J6VjVmaXc3YnpWSCtURzlOMUJIbmF1eERxNzRaUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxODgxCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6ClJNeWxzVUZ4dmUxVjVwNmVvVjExeEF1MWhNNlBKZ3Zka1gxYW9IcXp1YklhOHlTTzZmWTZzWWtSUUtNWDJYTkZxN2tYQndyQ2dwVENvcFlnNHIxU0NRPT0K",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-mac.app.tar.gz"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nmo4d1FYVDV1WFVaSWRUUSsraVZwdCtacFRTdlM1d3ovT2pBTHgvTHhzU1FibkpqTjNjUXZybExkN29NNGFjRWJTV25ES056dDF6Ymg2ZXJpV2VvbGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIzNzExCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE3ClVuTXhGT1VzN1FJVlNxTmhsdFo3UFFaNnRCMHJLcy85ODQvSnJOVlVqNmtNRVJvTitwWkhkMldTbUlNSmxVSGJHNEdBL0laWjZVTzVUMGpVNUlYeUFBPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.17/Ratexa-VPN-0.1.17-mac.app.tar.gz"
   },
   "darwin-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nm9jWmRiTFgvN2cvd0hDWjU0eEJsWHJwWHY2cUloR3BYSmh4ZGRiNDM0VGRjTkxGQmlJcnV6b3J6VjVmaXc3YnpWSCtURzlOMUJIbmF1eERxNzRaUGd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIxODgxCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6ClJNeWxzVUZ4dmUxVjVwNmVvVjExeEF1MWhNNlBKZ3Zka1gxYW9IcXp1YklhOHlTTzZmWTZzWWtSUUtNWDJYTkZxN2tYQndyQ2dwVENvcFlnNHIxU0NRPT0K",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-mac.app.tar.gz"
-  },
-  "linux-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmxJK3dQcUlWSXc0QWV0NUJXdlkrL1VGWUhKYU81OVFRejJ5cTNnZ0VnbjhvMlA2NFdVMDBVL3lBUUlLeDhaTUZNRk1xWUc4L3RYWkt5VytLcEFGYUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyNDE0CWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTZfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMTYKbmJaMDBCVWZ3Mk40d1JTRkp1M1kyM0UrWXB2QXJIS2xTZGI5SXF2c1ZTNk9Sdnlxc04xSjFBdFQzdVNjemZHRnpCZlhWZVdsZHNzOEtNT0Y4Q1FTQmc9PQo=",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-x86_64.AppImage"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5Nmo4d1FYVDV1WFVaSWRUUSsraVZwdCtacFRTdlM1d3ovT2pBTHgvTHhzU1FibkpqTjNjUXZybExkN29NNGFjRWJTV25ES056dDF6Ymg2ZXJpV2VvbGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIzNzExCWZpbGU6UmF0ZXhhIFZQTi5hcHAudGFyLmd6CXZlcnNpb246MC4xLjE3ClVuTXhGT1VzN1FJVlNxTmhsdFo3UFFaNnRCMHJLcy85ODQvSnJOVlVqNmtNRVJvTitwWkhkMldTbUlNSmxVSGJHNEdBL0laWjZVTzVUMGpVNUlYeUFBPT0K",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.17/Ratexa-VPN-0.1.17-mac.app.tar.gz"
   },
   "windows-x86_64": {
-   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NnNKUEs0enl4Ukp1eWtDR1VEUGtzS2tXd3l4SHFIRUMyaENVUWFzV202STVNWEJkY1hYZnpQMk1vYVF6SStWSmxGU0hXcjBiWGg5ZnI4eFlnMVMxbUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODIyMjAwCWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNgpMUnJSZmxTa01yYTJud095a0R1RFFIY0E0UTk0KzRPUngwbVJCVTZyQytEakJpT05hQTVsYmhReW5jVmhNRmxsdG5QTG9abkxITUhyTS9SU2xxY2hBZz09Cg==",
-   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.16/Ratexa-VPN-0.1.16-x64-setup.exe"
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmptVzRUbi9mZlhiL29DZ1VXSlhEOWxxeExTMlR4aWdpOW56OTdJVG54KzJVbm1BbUkyVlM0YWx4Z0RuS1N5aXNKTjJIWmIvTyswekVjRXZQdDVFZ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjIzODYzCWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xNwpOMG8yRkJIZHRWd0tZNzBERW9PSkpBY3VEUGcwKzNTbUFlT1pKN0RLbVl1UnhuR0YxMU5KU1pmdWF4aTEwU2plUHNzOEUzZ2tCdlpFc0c3TFB5WHpDQT09Cg==",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.17/Ratexa-VPN-0.1.17-x64-setup.exe"
+  },
+  "linux-x86_64": {
+   "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRS0psVVZrYXZ5NmhtNTV3aGVGaHNCYzhRY3F4WWQ5blRwcm9YWmJydkZWZjRJcHN4TlZzcUNyblJCbXh0aXhVUFNud1c3VkZtU1Fod2NEMytYbmlIUDhLT2JYV3U3UndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI0NjI3CWZpbGU6UmF0ZXhhIFZQTl8wLjEuMTdfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMTcKcENGK0tmb3ViVHVtTmZHc2s0RTBQYjF0cVpwa2NEWnhIUHZhRFdVdUc1RDNXQVB3NlNYeFM5U2lCaGVzK0dTU3VQWGxzTXNtQ21FTjQ0U3JqWEhVRGc9PQo=",
+   "url": "https://github.com/itquick-aihub/itq-vpn-catalog/releases/download/v0.1.17/Ratexa-VPN-0.1.17-x86_64.AppImage"
   }
  }
 }
